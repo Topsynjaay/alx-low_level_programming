@@ -1,6 +1,7 @@
 #include <stdio.h>
-/* printing
- * return 0
+/**
+ * printing in c
+ * Return: 0
  */
 int main(void)
 {
