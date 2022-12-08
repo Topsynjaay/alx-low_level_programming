@@ -1,6 +1,6 @@
 #include <stdio.h>
-/**
- * printing in c
+/*
+ * main- Printing a line of code
  * Return: 0
  */
 int main(void)
