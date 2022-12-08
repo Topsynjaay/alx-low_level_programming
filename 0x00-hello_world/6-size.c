@@ -1,5 +1,9 @@
 #include <stdio.h>
-
+/**
+ * main - print value of char
+ *
+ * Return: 0
+ */
 int main(void)
 {
 	char a;
